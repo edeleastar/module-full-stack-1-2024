@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "firstName": "Maggie",
+      "lastName": "Simpson",
+      "email": "maggie@simpson.com",
+      "password": "secret",
+      "_id": "97a9cbe1-30fe-4736-936f-15246da68ab9"
+    }
+  ],
+  "playlists": [
+    {
+      "title": "Mozart Favourites",
+      "userid": "97a9cbe1-30fe-4736-936f-15246da68ab9",
+      "_id": "2bd08869-0bd6-47d1-9ba0-53ccafd0b135"
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Piano Sonata No. 3",
+      "artist": "Beethoven",
+      "duration": 5,
+      "_id": "003346e8-e22d-4987-97a4-d381fc4a6de7",
+      "playlistid": "d833337a-f336-4ce2-8d99-3c8594e0034a"
+    },
+    {
+      "title": "Piano Sonata No. 7",
+      "artist": "Beethoven",
+      "duration": 6,
+      "_id": "13e55fc5-0ca9-411d-84a5-5fbe14ef2faf",
+      "playlistid": "d833337a-f336-4ce2-8d99-3c8594e0034a"
+    },
+    {
+      "title": "Piano Sonata No. 10",
+      "artist": "Beethoven",
+      "duration": 4,
+      "_id": "ef4ba99b-815e-42eb-a09f-5bbdb7bc88be",
+      "playlistid": "d833337a-f336-4ce2-8d99-3c8594e0034a"
+    }
+  ]
+}
